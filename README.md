@@ -1,6 +1,6 @@
-Per avviarli, digitare "npm start" nella bash.
+# README #
 
-server-web:
+## server-web ##
 
 L'applicazione in Unity si connetterà all'url "ws://192.168.40.100:8080"
 tramite il quale manderà un messaggio "l:6" (l sta ad indicare limit),
@@ -15,8 +15,7 @@ ma dato che sono tanti e anche molto lunghi, blocca l'applicazione in Unity
 quindi allo stato attuale viene caricato solo l'.obj a runtime.
 
 
-
-upload-files:
+## upload-files ##
 
 Scrivere nel url di un motore di ricerca "http://127.0.0.1/8000"
 per visualizzare la pagina upload_files.html la quale permette 
